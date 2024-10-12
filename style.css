@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h1{
+    color: lightgreen;
+    text-shadow: 2px 2px 3px rgb(71, 117, 71);
+    text-align: center;
+    background-color: rgb(65, 65, 65);
+}
+h3{
+    background-color: rgb(65, 65, 65);
+    text-align: center;
+    color: lightsalmon;
+    text-shadow: 2px 2px 3px rgb(255, 84, 17);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.box{
+   background-color: white;
+   height: 150px;
+   width: 200px;
+   padding: 20px;
+   border: 3px solid rgb(106, 254, 158);
+   border-radius: 10px;
+}
+.p1{
+    color: lightblue;
+    text-shadow: 2px 2px 3px rgb(88, 213, 255);
+}
